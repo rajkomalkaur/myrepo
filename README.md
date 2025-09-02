@@ -1,0 +1,2 @@
+# myrepo
+sle 777
